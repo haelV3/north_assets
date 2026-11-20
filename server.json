@@ -1,0 +1,30 @@
+{
+  "launcherVersion": "1.0.0",
+  "instances": [
+    {
+      "id": "northland",
+      "name": "NORTHLAND",
+      "subtitle": "Temporada 1 • Edición Creadores",
+      "mcVersion": "1.20.1",
+      "fabricVersion": "0.16.10",
+      "ram": "4G",
+      "packVersion": "1.0.0",
+      "packUrl": "https://github.com",
+      "icon": "🏰",
+      "accentColor": "#22c55e"
+    },
+    {
+      "id": "proximo_evento",
+      "name": "PRÓXIMO EVENTO",
+      "subtitle": "North Studio • Muy pronto",
+      "mcVersion": "1.20.1",
+      "fabricVersion": "0.16.10",
+      "ram": "4G",
+      "packVersion": "0.0.0",
+      "packUrl": "",
+      "icon": "⚔️",
+      "accentColor": "#38bdf8",
+      "locked": true
+    }
+  ]
+}
